@@ -1,1 +1,1 @@
-const asd = "fitur baru";
+const asd = "fitur baru ke-2";
