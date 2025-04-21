@@ -3,4 +3,4 @@ const b = "develop logion";
 const c = "fitur baru lgi";
 const d = "asdasdasdas";
 const e = "asdasda";
-const f = "zzzz";
+const f = "xxx";
